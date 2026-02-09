@@ -233,28 +233,7 @@ Ensure users provide valid email addresses and reduce fake accounts. Email verif
 **Acceptance Criteria:**
 - [ ] Code expires after 10 minutes
 - [ ] User can request new code if expired
-- [ ] Maximum 5 attempts before requiring new code
-- [ ] Code is case-insensitive
-- [ ] Works across all platforms (web, iOS, Android)
+
+
 
 ---
-
-## 🎓 Learning Resources
-
-### Recommended Reading
-- **User Story Basics:** Understanding "As a...I want...So that" format
-- **Acceptance Criteria:** How to write testable requirements
-- **API Fundamentals:** Basic understanding of requests and responses
-
-### Internal Resources
-- Previous user stories repository
-- Product requirements document (PRD) templates
-- Development team office hours
-
----
-
-**Remember:** A good user story focuses on **what** the user needs, not **how** it's built. The development team will figure out the "how"!
-
----
-
-*This template is designed to bridge communication between product managers and development teams. Feel free to adapt it to your organization's needs.*
